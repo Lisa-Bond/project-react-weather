@@ -1,0 +1,23 @@
+.Search img {
+  vertical-align: middle;
+  border-style: none;
+  width: 120px;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(71, 70, 70);
+}
+.Search {
+  font-family: Arial, Helvetica, sans-serif;
+}
+div {
+  text-align: center;
+}
+ul {
+  list-style: none;
+  line-height: 1.75;
+  font-family: Arial, Helvetica, sans-serif;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
